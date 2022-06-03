@@ -5,7 +5,7 @@
 Este repositório acumula todos os projetos criados na liguagem Python.
 
 <dl>
-  <dt>1.Calculaddora</dt>
+  <dt>1.Calculadora</dt>
   <dd>Projeto desenvolvido em python de calculadora</dd>
   <dt>2.Editor texto</dt>
   <dd>Projeto para a criação de um editor de texto. Podendo alterar diversas configurações de um texto. Utilizando a framework tkinter</dd>
