@@ -14,7 +14,7 @@ Este repositório acumula todos os projetos criados na liguagem Python.
   <dt>4.Jogo da velha</dt>
   <dd>Jogo da velha utilizando a framework tkinter</dd>
   <dt>5.MatPlot</dt>
-  <dd>dsd</dd>
+  <dd>Projetos pequenos de estudo em gráfico</dd>
   <dt>6.PDFReader</dt>
   <dd>Programa com o intuito de ler notas de corretagem em pdf utilizando pandas, pdfplumber e expressões regulares.</dd>
   <dt>7.População</dt>
